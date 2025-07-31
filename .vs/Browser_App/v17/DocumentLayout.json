@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\Browser_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|c:\\users\\abdul\\source\\repos\\browser_app\\browser_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|solutionrelative:browser_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|c:\\users\\abdul\\source\\repos\\browser_app\\browser_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|solutionrelative:browser_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Browser_App\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.cs",
+              "RelativeToolTip": "Browser_App\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:27:14.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Browser_App\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.cs [Design]",
+              "RelativeToolTip": "Browser_App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:04:59.638Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

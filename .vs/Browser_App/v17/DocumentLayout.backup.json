@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\Browser_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|c:\\users\\abdul\\source\\repos\\browser_app\\browser_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|solutionrelative:browser_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|c:\\users\\abdul\\source\\repos\\browser_app\\browser_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|solutionrelative:browser_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|c:\\users\\abdul\\source\\repos\\browser_app\\browser_app\\socailmedia_resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|solutionrelative:browser_app\\socailmedia_resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|c:\\users\\abdul\\source\\repos\\browser_app\\browser_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74F11C1-19C9-4237-B239-FA8644F9B8E5}|Browser_App\\Browser_App.csproj|solutionrelative:browser_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocailMedia_Resource.resx",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\SocailMedia_Resource.resx",
+              "RelativeDocumentMoniker": "Browser_App\\SocailMedia_Resource.resx",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\SocailMedia_Resource.resx",
+              "RelativeToolTip": "Browser_App\\SocailMedia_Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-31T01:24:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Browser_App\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.Designer.cs*",
+              "RelativeToolTip": "Browser_App\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:15:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Browser_App\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.cs*",
+              "RelativeToolTip": "Browser_App\\Form1.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:27:14.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Browser_App\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Browser_App\\Browser_App\\Form1.cs [Design]*",
+              "RelativeToolTip": "Browser_App\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:04:59.638Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
